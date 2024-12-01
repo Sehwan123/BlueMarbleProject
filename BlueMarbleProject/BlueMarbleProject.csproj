@@ -52,6 +52,12 @@
     <Compile Include="Building.Designer.cs">
       <DependentUpon>Building.cs</DependentUpon>
     </Compile>
+    <Compile Include="BuildingSell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuildingSell.Designer.cs">
+      <DependentUpon>BuildingSell.cs</DependentUpon>
+    </Compile>
     <Compile Include="GameModeScreen.cs">
       <SubType>Form</SubType>
     </Compile>
